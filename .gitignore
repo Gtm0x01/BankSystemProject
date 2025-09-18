@@ -1,0 +1,19 @@
+# Ignore build files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Ignore IDE/project settings (if any)
+.vscode/
+.idea/
+
+# Ignore binaries
+/bin/
+/build/
+dist/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
