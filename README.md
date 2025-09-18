@@ -23,6 +23,6 @@ This project implements a simple bank management system in C++, using Object-Ori
 
 Use the following command to compile all files:
 
-
+g++ -Iinclude main.cpp src/*.cpp -o BankSystem
 
 # BankSystemProject
